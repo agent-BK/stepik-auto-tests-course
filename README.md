@@ -1,6 +1,5 @@
 # Automation of testing using Selenium and Python a course on Stepik
 
-A course on testing automation using Selenium and Python.</br>
 [URL on the course](https://stepik.org/course/575/info "view the course")</br>
 Homework for the course in the Stepik.</br>
 
